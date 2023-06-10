@@ -6,6 +6,14 @@
 </picture>
 </p>
 
+<p>
+  Mio Launcher is a fork of Prism Launcher with features added that I need.
+</p>
+
+Changes:
+- Removed Account validation: you can launch minecraft with any username
+- revert of remove from FTB Modpack
+
 <p align="center">
   Prism Launcher is a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once.<br />
   <br />This is a <b>fork</b> of the MultiMC Launcher and is <b>not</b> endorsed by it.
